@@ -557,7 +557,7 @@
                   <p>&nbsp;</p>
                   <div id="contact">
                      <h3>Contact Us</h3>
-                     <h5>Email: <a href="/cdn-cgi/l/email-protection#aedbc0c7d8cbdcddc7dad7eeddc7dacfdccb80c1dcc9"><span class="__cf_email__" data-cfemail="d2a7bcbba4b7a0a1bba6ab92a1bba6b3a0b7fcbda0b5">[email&#160;protected]</span></a>, Phone/WhatsApp: +91 78499 10085, <a href="https://www.linkedin.com/school/sitare-university/">LinkedIn</a></h5>
+                     <h5>Email: <a href="/cdn-cgi/l/email-protection#72071c1b041700011b060b32011b061300175c1d0015"><span class="__cf_email__" data-cfemail="abdec5c2ddced9d8c2dfd2ebd8c2dfcad9ce85c4d9cc">[email&#160;protected]</span></a>, Phone/WhatsApp: +91 78499 10085, <a href="https://www.linkedin.com/school/sitare-university/">LinkedIn</a></h5>
                      
                   </div>
                </div>

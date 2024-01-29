@@ -11,11 +11,11 @@ def parseTag(s):
     if ('<a' in s) and (".php" in s):
         start = s.index('href')
         end = s.index('>',start)
-        print(inp + s[start+6:end-1]) 
+        print((inp + s[start+6:end-1]).strip(),end="")
     elif ('<a' in s) and ("img" not in s):
         start = s.index('href')
         end = s.index('>',start)
-        print(s[start+6:end-1])
+        print((s[start+6:end-1]).strip(),end="")
     elif ('<h' in s):
         start = s.index('>')
         end = s.index('<', start)
@@ -35,6 +35,17 @@ def parseTag(s):
     end = s.index('<', start)
     return s[start + 1:end] + sub_str
 
+def Url_parsetag(s):
+    if ('<a' in s) and (".php" in s):
+        start = s.index('href')
+        end = s.index('>',start)
+        print((inp + s[start+6:end-1]).strip(),"\n")
+    elif ('<a' in s) and ("img" not in s):
+        start = s.index('href')
+        end = s.index('>',start)
+        print((s[start+6:end-1]).strip())
+
+    
 with open('output.txt', 'w') as file:
     file.write(htmlTag(inp))
 
@@ -43,8 +54,14 @@ with open('output.txt', 'r') as file:
     
     for line in file:
         try:
-            print(parseTag(line))
+            print(parseTag(line).strip())
         
         except:
             continue
     
+    for line in file:
+        try:
+            Url_parsetag(line)
+
+        except:
+            continue
