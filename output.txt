@@ -64,7 +64,7 @@
          <div class="container width-75">
             <div class="row pt-5">
                <div class="col-lg-9 col-md-9 mb-3">
-                  <h4>We are HIRING! Please see our <a href="https://www.linkedin.com/jobs/view/3761606355/" style="text-decoration:none">job posting on LinkedIn</a>.</h4><p>&nbsp;</p>
+                  <h4>Read about our very successful industry internship program in our <a href="https://sitare.org/univ/update-apr-2023.php" style="text-decoration:none">last update</a>.</h4><p>&nbsp;</p>
                   <p class="text-justify">We are living in unprecedented times, software has transformed how we live. From smartphones to smart wearables, from finding information to buying things, from banking to healthcare, from listening to music to driving a car, every aspect of our life is impacted by computers. This trend will only accelerate with the new age of AI and Machine Learning. The future belongs to nations who can make fundamental advances in Computer Science.</p>
                   <p class="text-justify">To ensure that the brightest minds in the world get an opportunity to study Computer Science, leaders from Silicon Valley, top American and European institutions, industry leaders, and venture capitalists have come together to build a new University focussed on Computer Science - Sitare University. The first Sitare batch was started in 2022 with twenty four students, and the second batch admitted in 2023 has forty four students. We plan to admit around one hundred students in 2024, and gradually increase this number to around one thousand admissions per year in 2030. Sitare students are selected based upon their JEE mains performance, as well as an interview.</p>
                </div>
@@ -413,6 +413,19 @@
                   <div class=" col-md-4 col-sm-6">
                      <div class="row">
                         <div class="align-items-center text-center pt-4">
+                           <img src="assets/WebP/prosenjit-gupta.webp" style="min-width: 150px; max-width: 150px;">
+                           <h5 class="pt-4">Prosenjit Gupta</h5>
+                           <p><i>Visiting Faculty, Computer Science</i></p>
+                        </div>
+                     </div>
+                     <div>
+                        <p class="justify-content">Dr. Prosenjit Gupta, Ph.D. in Computer Science from the University of Minnesota, Minneapolis, holds B.Tech and M.Tech from IIT Kharagpur. Over 28 years, he held roles globally, including at Max-Planck-Institut, Yahoo, and Bell Laboratories. Dr. Gupta has over 85 publications in various international journals and conference proceedings. Currently leading Elahe Technologies in Kolkata, his e-Learning and Higher Education initiative has served 25+ organizations. <a href="https://www.linkedin.com/in/dr-prosenjit-gupta-ab96394/">Link</a></p>
+                     </div>
+                  </div>
+
+                  <div class=" col-md-4 col-sm-6">
+                     <div class="row">
+                        <div class="align-items-center text-center pt-4">
                            <img src="assets/WebP/ravi-adusumalli.webp" style="min-width: 150px; max-width: 150px;">
                            <h5 class="pt-4">Ravi Adusumalli</h5>
                            <p><i>Program Advisor</i></p>
@@ -557,7 +570,7 @@
                   <p>&nbsp;</p>
                   <div id="contact">
                      <h3>Contact Us</h3>
-                     <h5>Email: <a href="/cdn-cgi/l/email-protection#72071c1b041700011b060b32011b061300175c1d0015"><span class="__cf_email__" data-cfemail="abdec5c2ddced9d8c2dfd2ebd8c2dfcad9ce85c4d9cc">[email&#160;protected]</span></a>, Phone/WhatsApp: +91 78499 10085, <a href="https://www.linkedin.com/school/sitare-university/">LinkedIn</a></h5>
+                     <h5>Email: <a href="/cdn-cgi/l/email-protection#94e1fafde2f1e6e7fde0edd4e7fde0f5e6f1bafbe6f3"><span class="__cf_email__" data-cfemail="483d26213e2d3a3b213c31083b213c293a2d66273a2f">[email&#160;protected]</span></a>, Phone/WhatsApp: +91 78499 10085, <a href="https://www.linkedin.com/school/sitare-university/">LinkedIn</a></h5>
                      
                   </div>
                </div>
